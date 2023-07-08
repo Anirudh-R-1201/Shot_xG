@@ -1,0 +1,4 @@
+id,duration,distance,build_up_duration,shot_technique_half_volley,shot_technique_lob,shot_technique_normal,shot_open_goal,pass_height_name,pass_cut_back,pass_through_ball,follows_goalkeeper,follows_dribble,pass_cross,goal,player_name,team_name,match_id,x_loc,y_loc,pass_player_name,xg,xa
+4e048f1d-9be7-4aea-9447-adbb735f7cf9,0.7027,11.700427342623007,0.0,0,0,1,,,,,0,0,,1,Lionel Andrés Messi Cuccittini,Barcelona,69250,108.3,39.9,,1.0,0
+004b07d5-5506-447e-9e6e-f1f835ea8afd,0.614436,12.0,0.0,0,0,1,,,,,0,0,,1,Roberto Soldado Rillo,Getafe,69240,108.0,40.0,,1.0,0
+738d9580-a57c-49a1-805a-92854755687d,0.5413,12.10165277968261,0.0,0,0,1,,,,,0,0,,1,Zlatan Ibrahimović,Barcelona,69227,107.9,40.2,,1.0,0
